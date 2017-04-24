@@ -20,7 +20,7 @@ A virtual interviewer which allows recruiters to perform automated first-round i
 
 ### Application for the job hunter:
 
-Practice on challenging job interviews as if it was with a real person.
+Practice on challenging job interviews as if it was with a real person.  Get live analysis and feedback to improve!
 
 ## Technology Stack
 - Built on the Watson NLU AI platform
